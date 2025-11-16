@@ -27,7 +27,7 @@ const App = () => {
           {
             withCredentials: true,
           }
-        );
+        );``
         setUser(response.data.user);
         setIsAuthorized(true);
       } catch (error) {
