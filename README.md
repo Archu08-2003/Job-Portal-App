@@ -90,6 +90,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Abhishek Rajput - [GitHub](https://github.com/exclusiveabhi)
+Archana - [GitHub]https://github.com/Archu08-2003)
 
-Project Link: [https://github.com/exclusiveabhi/react-job-portal.git](https://github.com/exclusiveabhi/react-job-portal.git)
+Project Link: [https://github.com/Archu08-2003/Job-Portal-App)
