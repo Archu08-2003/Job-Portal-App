@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/exclusiveabhi/react-job-portal.git
+   git clone https://github.com/Archu08-2003/Job-Portal-App/edit/main/README.mdt
    ```
 2. Install NPM packages:
 
